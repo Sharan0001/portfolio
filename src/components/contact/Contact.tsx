@@ -72,7 +72,7 @@ export default function Contact() {
                         </div>
 
                         <a
-                            href="/Sharan_V_Resume.pdf"
+                            href="/Sharan_V_Resume.pdf?v=2"
                             download="Sharan_V_Resume.pdf"
                             className="inline-flex items-center gap-2 px-6 py-3 bg-[var(--color-steel)] text-white rounded-lg font-medium text-sm hover:bg-[var(--color-steel-dim)] transition-colors duration-200"
                         >

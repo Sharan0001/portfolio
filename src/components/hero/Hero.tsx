@@ -91,7 +91,7 @@ export default function Hero() {
                                 <ArrowDown className="w-4 h-4" />
                             </a>
                             <a
-                                href="/Sharan_V_Resume.pdf"
+                                href="/Sharan_V_Resume.pdf?v=2"
                                 download="Sharan_V_Resume.pdf"
                                 className="inline-flex items-center gap-2 px-6 py-3 border border-[var(--color-graphite-border)] text-[var(--color-text-primary)] rounded-lg font-medium text-sm hover:bg-[var(--color-graphite-light)] transition-colors duration-200"
                             >
